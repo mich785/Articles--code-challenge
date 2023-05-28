@@ -14,14 +14,4 @@ class Magazine
   end
   
  
- magazine1 = Magazine.new("Fashion Weekly", "Fashion")
-magazine2 = Magazine.new("Tech Today", "Technology")
-
-puts magazine1.name      
-puts magazine1.category
-
-puts magazine2.name      
-puts magazine2.category  
-
-puts Magazine.all.inspect
-
+ 
